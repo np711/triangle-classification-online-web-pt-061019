@@ -1,6 +1,4 @@
 class Triangle
- 
-end 	
    attr_accessor :side1, :side2, :side3
   @sides = []
 
